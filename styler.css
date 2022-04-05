@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    background-image: linear-gradient(#090a11,#242935);
+}
+.box{
+    margin: 0;
+    background-color: #0b0c10;
+    width: 100%;
+    position: fixed;
+    opacity: 0.95
+}
+.box_cabecalho{
+    display: flex;
+    justify-content: space-between;
+    margin:  0 30% 0 5%
+}
+.box_cabelinho-titulo{
+    color: #c30763;
+    
+}
+.box_cabecalho_nav_lista-ul{
+    display: flex;
+    list-style-type: none;
+}
+
+.box_cabecalho_nav_lista-li{
+    color: #c5c6c7;
+    padding: 10px;
+}
